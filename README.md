@@ -6,6 +6,6 @@ This revises the board to provide USB2 Type-C outputs. By default, the schematic
 
 ![Schematic Capture](https://cloud-2xkj45owt-hack-club-bot.vercel.app/0image.png)
 ![PCB Render](https://cloud-c7is38gls-hack-club-bot.vercel.app/0screenshot_2023-11-02_at_2.20.38_pm.png)
-![Assembled OSHPark After Dark](https://cloud-e45xlmam7-hack-club-bot.vercel.app/15m8a0346_dxo.jpg)
+![Assembled OSHPark After Dark](https://www.hugohu.me/USBHub.jpg)
 
 These boards have been tested and built with OSHPark After Dark service. 
